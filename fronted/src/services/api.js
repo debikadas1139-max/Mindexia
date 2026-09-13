@@ -2,7 +2,7 @@
 // Change VITE_API_BASE_URL in a .env file to point at a different backend
 // without touching any component code.
 export const API_BASE_URL =
-  import.meta.env.VITE_API_BASE_URL || "http://127.0.0.1:8000";
+  import.meta.env.VITE_API_BASE_URL || "https://mindexia-web.onrender.com";
 
 /**
  * Shapes the assessment form state into the exact payload the FastAPI
