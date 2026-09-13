@@ -12,6 +12,16 @@
 
 Users complete an interactive assessment, and the data is sent from the React frontend to a FastAPI backend. A trained **Random Forest Regressor** then generates the predicted score.
 
+
+---
+
+## 🔗 Project Links
+
+- 🌐 **Live Website:** https://mindexia-web-q606.onrender.com
+- 💻 **GitHub Repository:** https://github.com/debikadas1139-max/Mindexia
+- ⚙️ **Backend API / Swagger:** https://mindexia-web.onrender.com/docs
+- 🚀 **Backend Service:** https://mindexia-web.onrender.com
+
 ---
 
 ## ✨ Features
