@@ -225,9 +225,11 @@ Frontend:
 
 ## 📸 Screenshots
 
-    ![Landing Page](screenshots/Mindexia-landing-page.png)
-    ![Assessment](screenshots/Mindexia-assesment-page.png)
-    ![Result](screenshots/Mindexia-result-page.png)
+![Landing Page](./screenshots/Mindexia-landing-page.png)
+
+![Assessment](./screenshots/Mindexia-assesment-page.png)
+
+![Result](./screenshots/Mindexia-result-page.png)
 
 ---
 
